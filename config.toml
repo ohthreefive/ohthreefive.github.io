@@ -1,3 +1,5 @@
+publishDir         = "docs"
+
 baseurl            = "https://ohthreefive.gitlab.io"
 languageCode       = "en-us"
 title              = "ohthreefive"
