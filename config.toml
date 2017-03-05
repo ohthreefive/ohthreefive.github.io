@@ -1,0 +1,19 @@
+baseurl            = "https://ohthreefive.gitlab.io"
+languageCode       = "en-us"
+title              = "ohthreefive"
+paginate           = 5
+theme              = "after-dark"
+
+enableRobotsTXT            = true # Suggested, enable robots.txt file
+# googleAnalytics            = "" # Optional, add tracking Id for analytics
+# disqusShortname            = "" # Optional, add Disqus shortname for comments
+SectionPagesMenu           = "main" # Enable menu system for lazy bloggers
+footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
+
+[params]
+  description = "" # Suggested, controls default description meta
+  author      = "ohthreefive" # Optional, controls author name display on posts
+  hide_author = false # Optional, set true to hide author name on posts
+  show_menu   = false # Optional, set true to enable section menu
+  powered_by  = true # Optional, set false to disable credits
+#  images      = [] # Suggested, adds default OpenGraph images
