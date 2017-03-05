@@ -1,4 +1,4 @@
-
+publishDir = "docs"
 
 baseurl = "https://ohthreefive.github.io" # Controls base URL
 languageCode = "en-US" # Controls html lang attribute
